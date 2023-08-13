@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS taxinfo (id SERIAL PRIMARY KEY,  description VARCHAR(255), FuncStatus BOOLEAN);
